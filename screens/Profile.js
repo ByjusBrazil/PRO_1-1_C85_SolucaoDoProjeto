@@ -10,7 +10,7 @@ export default class Profile extends Component {
                     justifyContent: "center",
                     alignItems: "center"
                 }}>
-                <Text>Perfil</Text>
+                <Text>Peril</Text>
             </View>
         )
     }
